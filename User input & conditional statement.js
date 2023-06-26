@@ -5,7 +5,6 @@ var city = prompt("Enter your city name");
 if (city === "karachi") {
     alert("Welcome to city of lights");
 }
-
 // Q.no.2
 
 var gender = prompt("Enter your Gender");
