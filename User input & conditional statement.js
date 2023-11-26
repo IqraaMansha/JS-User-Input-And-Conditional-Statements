@@ -4,7 +4,6 @@
 // Q.no.1
 
 
-
 var city = prompt("Enter your city name");
 if (city === "karachi") {
     alert("Welcome to city of lights");
